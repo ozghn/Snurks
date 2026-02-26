@@ -1,0 +1,56 @@
+# Build directories
+Build/
+build/
+Binaries/
+DerivedData/
+Intermediates/
+
+# IDE files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj/
+*.xcworkspace/
+XCode/
+VisualStudio2019/
+VisualStudio2022/
+Makefile/
+
+# Projucer cache
+*.jucer.autosave
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+*.pidb
+*.suo
+
+# Compiled/binary files
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.idb
+*.ilk
+
+# Audio plugin specific
+*.vst3
+*.component
+*.vst
+*.aaxplugin
+.vst3/
+.component/
+.vst/
+.aaxplugin/
+
+# JUCE modules
+JUCE/
+modules/
