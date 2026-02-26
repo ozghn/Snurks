@@ -78,3 +78,6 @@ Omar Zaghouani
 
 ## Notes
 This is an experimental glitch processor designed for creative sound design. For best results, experiment with automation of the master "Snurk" toggle and parameter combinations.
+
+## VST Plugin Screenshot
+<img width="1223" height="706" alt="image" src="https://github.com/user-attachments/assets/15aa3fec-f45b-4428-b5c9-af14bb35f5ed" />
